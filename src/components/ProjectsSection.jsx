@@ -38,11 +38,11 @@ function ProjectsSection() {
         />
 
         <ProjectCard
-          year="2026"
-          title="React Portfolio"
-          description="A personal portfolio built with reusable React components as part of my CSIT340 coursework."
-          tech="React · Tailwind CSS"
-          link="https://github.com/jayrossversales"
+            year="2026"
+            title="React Portfolio"
+            description="A personal portfolio built with reusable React components as part of my CSIT340 coursework."
+            tech="React · Tailwind CSS"
+            link="https://github.com/jayrossversales/CSIT340-Lab3-Versales"
         />
       </div>
     </section>
